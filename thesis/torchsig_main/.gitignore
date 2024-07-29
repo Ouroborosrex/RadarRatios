@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.mdb
+*.swp
+torchsig.egg-info
+.vscode/
+*.png
+build/
+checkpoints/
+lightning_logs/
+*.pt
+*.jpg
+*.benchmarks/
+dist/
+examples/*.ipynb_checkpoints/
